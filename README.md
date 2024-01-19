@@ -1,16 +1,5 @@
-# webrtc_flutter
+출처: https://www.youtube.com/watch?v=YcdEYWeHmV8 (dogfut)
 
-A new Flutter project.
+플러터에서 Web RTC를 적용한 프로젝트입니다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+테스트 방법: 시그널 서버를 실행한다. -> 플러터를 디버그 모드로 실행한다. -> 크롬에서 연다(노트북 카메라) -> 파이어폭스에서 연다 (아이폰 카메라가 필요합니다.)
